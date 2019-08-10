@@ -29,7 +29,7 @@
     <description>Crafter Deployer AWS Processors</description>
 
     <properties>
-        <kinesis.version>1.9.1</kinesis.version>
+        <kinesis.version>1.11.1</kinesis.version>
         <kinesis.adapter.version>1.4.0</kinesis.adapter.version>
         <jackson.version>2.9.5</jackson.version>
         <maven.compiler.source>1.8</maven.compiler.source>
