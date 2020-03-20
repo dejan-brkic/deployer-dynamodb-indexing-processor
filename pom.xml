@@ -31,7 +31,7 @@
     <properties>
         <kinesis.version>1.9.1</kinesis.version>
         <kinesis.adapter.version>1.4.0</kinesis.adapter.version>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.10.0</jackson.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
